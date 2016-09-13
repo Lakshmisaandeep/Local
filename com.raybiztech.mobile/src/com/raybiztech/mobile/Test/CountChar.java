@@ -47,5 +47,7 @@ public class CountChar {
 	       
 	  String r= "R"+"C";
 	  System.out.println(r);
+	  
+	  System.out.println("saandeep");
 	    }
 	}
